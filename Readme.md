@@ -22,7 +22,7 @@ Python 3.8+
 Установка
 bash
 git clone https://github.com/whaldeyw/ssh_bot.git
-cd 
+cd ssh_bot
 
 Настройка
 Создайте файл .env в корне проекта:
