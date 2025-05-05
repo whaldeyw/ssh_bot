@@ -55,33 +55,33 @@ bash
 
 python3 -m venv venv
 
-Активируйте виртуальное окружение
+3. Активируйте виртуальное окружение
 
 source venv/bin/activate
 
-Установите зависимости 
+4. Установите зависимости 
 
 pip install -r requirements.txt
 
-Запустите бота
+5. Запустите бота
 
 python3 run.py
 
-Windows:
+2. Windows:
 
 bash
 
 python -m venv venv
 
-Активируйте виртуальное окружение
+3. Активируйте виртуальное окружение
 
 venv\Scripts\activate
 
-Установите зависимости 
+4. Установите зависимости 
 
 pip install -r requirements.txt
 
-Запустите бота
+5. Запустите бота
 
 python run.py
 
