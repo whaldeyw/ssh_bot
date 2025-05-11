@@ -25,6 +25,7 @@ git clone https://github.com/whaldeyw/ssh_bot.git
 cd ssh_bot
 
 Настройка
+
 Создайте файл .env в корне проекта:
 
 PASSWORD = 'secret_password' #пароль для авторизации
